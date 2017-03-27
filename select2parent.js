@@ -2,6 +2,7 @@
  * Plugin para dependencia entre 2 selects donde según la selección del padre se en listan las opciones del hijo
  * 
  * Dependencias: jQuery, Select2 
+ * Date: 2016-05-25
  *  
  * @author Diego Malagón 
  * @param {Funtion} $ jQuery
